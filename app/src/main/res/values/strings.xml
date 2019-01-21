@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marvel Heroes</string>
+
+    <string name="search_text">Filter by name</string>
+
+    <string name="comics">COMICS</string>
+    <string name="events">EVENTS</string>
+    <string name="series">SERIES</string>
+    <string name="stories">STORIES</string>
+
+    <string name="end_reached">No more elements</string>
+</resources>
